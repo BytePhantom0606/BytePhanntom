@@ -49,12 +49,6 @@
   <a href="https://validate.haad.ai/storage/certificates/HID:%20481S655655.jpg" target="_blank">
     <img src="https://validate.haad.ai/storage/certificates/HID:%20481S655655.jpg" alt="Certificate 1" width="300">
   </a>
-  <a href="https://example.com/certificate2" target="_blank">
-    <img src="https://via.placeholder.com/300x200?text=Certificate+2" alt="Certificate 2" width="300">
-  </a>
-  <a href="https://example.com/certificate3" target="_blank">
-    <img src="https://via.placeholder.com/300x200?text=Certificate+3" alt="Certificate 3" width="300">
-  </a>
 </p>
 
 ---
