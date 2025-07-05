@@ -1,99 +1,83 @@
 <!-- PROFILE README -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=900&lines=%F0%9F%95%B0%EF%B8%8F+RedHunter+-+Offensive+Security+Researcher;%F0%9F%92%BB+Pentester+%7C+Bug+Bounty+Hunter;%F0%9F%92%A1+Breaking+%7C+Building+%7C+Securing" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&width=1000&center=true&vCenter=true&lines=RedHunter+-+Cyber+Security+Specialist;Offensive+Security+Researcher+%7C+Pentester;Bug+Bounty+Hunter+%7C+Exploit+Developer;Breaking+%7C+Building+%7C+Securing" alt="Typing SVG">
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:111111&height=220&section=header&text=RedHunter%20Cyber%20Ops&fontSize=45&fontColor=fff&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:222222&height=230&section=header&text=RedHunter%20Cyber%20Ops%20Lab&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="header"/>
 </p>
 
-<h2 align="center">🕶️ About Me</h2>
+<h2 align="center">🕶️ Who Am I?</h2>
 
 <p align="center">
   <em>
-    I am <strong>RedHunter</strong>, an Offensive Security Specialist deeply focused on <strong>penetration testing, exploit development, and adversary simulation</strong>. <br>
+    <strong>RedHunter</strong>, a relentless <strong>Cyber Security Specialist</strong> dedicated to Offensive Security, Vulnerability Research, and Red Team Operations. <br>
     I believe in mastering the art of breaking systems to make them stronger.
   </em>
 </p>
 
 ---
 
-<h3>🎯 What Drives Me</h3>
+<h3>🎯 My Mission</h3>
 
-- 🩸 Passionate about <strong>finding zero-days and weaponizing exploits</strong>
-- 💉 Focused on <strong>web application hacking, infrastructure compromise, and post-exploitation</strong>
-- 🛠️ Building custom tools to automate complex attacks and recon
-- 🌐 Active contributor to <strong>Bug Bounty platforms</strong>
-- 🦾 Committed to <strong>continuous learning and sharing knowledge</strong>
-
----
-
-<h3>🔍 My Expertise</h3>
-
-✅ **Offensive Security:**  
-> Advanced TTPs, Red Teaming, Social Engineering
-
-✅ **Exploit Development:**  
-> Fuzzing, Buffer Overflows, Privilege Escalation
-
-✅ **Web Application Security:**  
-> SQLi, RCE, XXE, SSRF, IDOR, Business Logic Abuse
-
-✅ **Recon & OSINT:**  
-> Custom Python/Bash recon pipelines
-
-✅ **Cloud & Network Attacks:**  
-> AWS/Azure exploitation, lateral movement
+- 🩸 Passionate about discovering & weaponizing <strong>zero-day vulnerabilities</strong>
+- 💀 Focused on <strong>Web Exploitation, Infrastructure Hacking, Adversary Simulation</strong>
+- 🛠️ Building automation tools to streamline recon and attack chains
+- 🌐 Active contributor to <strong>Bug Bounty programs & security communities</strong>
 
 ---
 
 <h3>🧰 My Arsenal</h3>
 
-- 🛡️ Kali Linux, ParrotOS, BlackArch
-- 🐍 Python, Bash, PowerShell
-- ⚡ Metasploit, Burp Suite, Nmap, SQLMap
-- 🕸️ Recon-ng, theHarvester, Shodan
-- 🧬 Ghidra, IDA Pro, Radare2
-- 🏹 Cobalt Strike, Empire, BloodHound
+🚀 <strong>Tools & Platforms:</strong>  
+Kali Linux • ParrotOS • BlackArch • Burp Suite • Metasploit • Cobalt Strike  
+SQLMap • Nmap • Empire • BloodHound • Recon-ng • Ghidra • IDA Pro  
+
+🐍 <strong>Languages:</strong>  
+Python • Bash • PowerShell
 
 ---
 
 <h3>🏆 Achievements</h3>
 
-- 🔓 Reported multiple critical vulnerabilities to global companies
-- 🕵️‍♂️ Participated in top-tier CTF competitions
-- 🧩 Built custom recon and exploitation frameworks
-- 🌐 Helped organizations improve their security maturity
+- 🔓 Reported critical vulnerabilities in multiple platforms
+- 🕵️‍♂️ Participated in top CTF competitions
+- 🧩 Built recon and exploitation frameworks
+- 🛡️ Helped organizations enhance security maturity
 
 ---
 
-<h3>💼 GitHub Mission</h3>
+<h3>🔥 Focused On</h3>
 
-Here I share:
-
-✅ Offensive security scripts & toolkits  
-✅ Vulnerability research and exploit PoCs  
-✅ Cyber Security automation projects  
-✅ Write-ups and learning resources  
+- Advanced Persistence Techniques
+- Cloud Infrastructure Exploitation
+- Malware Development
+- Zero-Day Research
 
 ---
 
-<h3>📈 GitHub Stats</h3>
+<h3>💼 What You'll Find Here</h3>
+
+✅ Custom Red Team Scripts & Toolkits  
+✅ Vulnerability Research & Exploits  
+✅ Offensive Security Labs & Write-Ups  
+✅ Automation Projects for Recon & Attack
+
+---
+
+<h3 align="center">📈 My GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RedHunter&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RedHunter&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=RedHunter&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats">
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RedHunter&theme=radical&hide_border=true" alt="GitHub Streak">
+</p>
 
-<h3>⚡ Currently Focused On</h3>
-
-- Offensive Cloud Security Research
-- Advanced Persistence Techniques
-- Custom Red Team Infrastructure
-- Malware Development & Evasion
-- Real-World Exploit Development
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RedHunter&theme=onestar&no-frame=true&column=7" alt="Trophies">
+</p>
 
 ---
 
@@ -115,5 +99,5 @@ Here I share:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:111111&height=150&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:222222&height=150&section=footer"/>
 </p>
