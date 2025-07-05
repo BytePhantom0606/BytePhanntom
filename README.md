@@ -46,8 +46,8 @@
 
 <p align="center">
   <!-- Example images - replace src with your certificate image URLs -->
-  <a href="https://example.com/certificate1" target="_blank">
-    <img src="https://via.placeholder.com/300x200?text=Certificate+1" alt="Certificate 1" width="300">
+  <a href="https://validate.haad.ai/storage/certificates/HID:%20481S655655.jpg" target="_blank">
+    <img src="https://validate.haad.ai/storage/certificates/HID:%20481S655655.jpg" alt="Certificate 1" width="300">
   </a>
   <a href="https://example.com/certificate2" target="_blank">
     <img src="https://via.placeholder.com/300x200?text=Certificate+2" alt="Certificate 2" width="300">
